@@ -978,7 +978,7 @@ sup {
 }
 #right-side .content h3 {
     font-family: Montserrat, "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-weight: 700;
 }
 #right-side .content span.separator {
@@ -1057,7 +1057,7 @@ sup {
 #right-side .content .photo-line figure figcaption .photo-details h4 {
     font-weight: 800;
     margin-bottom: 0.5em;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 2em;
     opacity: 1;
     color: #fff;
