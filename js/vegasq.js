@@ -16,8 +16,11 @@ $(window).load(function() {
             slides: [
                 { src: 'img/Cat-R1700.jpg' },
                 { src: 'img/heavy-dump-truck-used-for-platinum-mining-in-south-2022-12-22-20-25-13-utc.jpg' },
-                { src: 'img/dumper-trucks-being-loaded-on-ore-mine-works-at-o-2021-08-28-18-47-43-utc.jpg' },                
+                { src: 'img/dumper-trucks-being-loaded-on-ore-mine-works-at-o-2021-08-28-18-47-43-utc.jpg' },   
+                { src: 'img/piece-of-large-machinery-used-for-platinum-mining-2022-12-31-04-12-43-utc.jpg' },              
             ],
+
+            
 
             // Delay beetween slides in milliseconds.
             delay: 5000,
