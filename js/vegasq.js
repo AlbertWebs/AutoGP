@@ -15,8 +15,9 @@ $(window).load(function() {
         $('body').vegas({
             slides: [
                 { src: 'img/Cat-798-AC-mining-truck-at-Caterpillars-Arizona-Proving-Grounds.jpg' },
-                { src: 'img/pexels-piotr-arnoldes-6109687.jpg' },
+                { src: 'img/dumper-trucks-being-loaded-on-ore-mine-works-at-o-2021-08-28-18-47-43-utc.jpg' },
                 { src: 'img/Cat-R1700.jpg' },
+                
             ],
 
             // Delay beetween slides in milliseconds.
