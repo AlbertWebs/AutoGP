@@ -1107,7 +1107,7 @@ sup {
     letter-spacing: 0.1em;
 }
 #right-side .content .get_now button#valid-form:hover {
-    background: #e60075;
+    background: #383838;
     color: #fff;
 }
 #right-side .content .get_now .get_now_btn {
@@ -1378,7 +1378,7 @@ sup {
     letter-spacing: 0.1em;
 }
 #subscribe #notifyMe .form-group button.submit:hover {
-    background: #e60075;
+    background: #383838;
     color: #fff;
 }
 #subscribe .block-message {
@@ -1564,7 +1564,7 @@ sup {
     letter-spacing: 0.1em;
 }
 #contact-form button#valid-form:hover {
-    background: #e60075;
+    background: #383838;
     color: #fff;
 }
 #block-answer {
