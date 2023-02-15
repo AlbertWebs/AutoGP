@@ -14,9 +14,9 @@ $(window).load(function() {
 
         $('body').vegas({
             slides: [
-                { src: 'img/1.jpg' },
-                { src: 'img/2.jpg' },
-                { src: 'img/3.jpg' },
+                { src: 'img/Cat-798-AC-mining-truck-at-Caterpillars-Arizona-Proving-Grounds.jpg' },
+                { src: 'img/pexels-piotr-arnoldes-6109687.jpg' },
+                { src: 'img/Cat-R1700.jpg' },
             ],
 
             // Delay beetween slides in milliseconds.

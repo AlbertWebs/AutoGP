@@ -160,7 +160,7 @@ table {
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 700;
-    color: #a4b0be;
+    color: #383838;
     letter-spacing: 2px;
     font-family: Montserrat, "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
     top: 90px;
@@ -172,7 +172,7 @@ table {
 }
 #loading #preloader span {
     position: absolute;
-    border: 8px solid #e82629;
+    border: 8px solid #f9ac1b;
     border-top: 8px solid transparent;
     border-radius: 999px;
 }
@@ -448,11 +448,11 @@ sup {
     border-color: #fff;
 }
 .action-btn {
-    background: #e82629;
+    background: #f9ac1b;
     font-weight: bold;
     padding: 1.2em 2.4em;
     color: #fff;
-    border: 2px solid #e82629;
+    border: 2px solid #f9ac1b;
     display: block;
     float: left;
     border-radius: 7px;
@@ -989,7 +989,7 @@ sup {
     margin: 50px 0 60px;
 }
 #right-side .content p {
-    color: #a4b0be;
+    color: #383838;
 }
 #right-side .content .photo-line figure {
     padding: 0;
@@ -1052,7 +1052,7 @@ sup {
     background: rgba(0, 0, 0, 0.8);
     padding: 2em 4em;
     text-align: left;
-    color: #a4b0be;
+    color: #383838;
 }
 #right-side .content .photo-line figure figcaption .photo-details h4 {
     font-weight: 800;
@@ -1078,7 +1078,7 @@ sup {
     line-height: 1.2;
 }
 #right-side .content .get_now {
-    background: #e82629;
+    background: #f9ac1b;
     padding: 150px 0;
     margin-bottom: 100px;
 }
@@ -1097,7 +1097,7 @@ sup {
     font-size: 1em;
     display: block;
     margin: 0;
-    background: #e82629;
+    background: #f9ac1b;
     color: #fff;
     border-radius: 7px;
     font-weight: 700;
@@ -1154,7 +1154,7 @@ sup {
     background: rgba(255, 255, 255, 0.1);
     border: none;
     padding: 0;
-    color: #a4b0be;
+    color: #383838;
     font-size: 1em;
     width: 2.5em;
     height: 2.5em;
@@ -1199,7 +1199,7 @@ sup {
     text-align: center;
 }
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
-    background-color: #a4b0be;
+    background-color: #383838;
 }
 .mCSB_scrollTools-left {
     right: 50% !important;
@@ -1261,7 +1261,7 @@ sup {
     width: 100%;
     height: 100%;
     z-index: -1;
-    border: 1px solid #e82629;
+    border: 1px solid #f9ac1b;
     background: rgba(0, 0, 0, 0.8);
 }
 .dialog--open .dialog__content {
@@ -1274,7 +1274,7 @@ sup {
     background: rgba(255, 255, 255, 0.1);
     border: none;
     padding: 0;
-    color: #a4b0be;
+    color: #383838;
     font-size: 1em;
     width: 2.5em;
     height: 2.5em;
@@ -1318,26 +1318,26 @@ sup {
     margin-top: 2em;
 }
 #subscribe #notifyMe ::-webkit-input-placeholder {
-    color: #a4b0be !important;
+    color: #383838 !important;
     font-weight: normal !important;
 }
 #subscribe #notifyMe :-ms-input-placeholder {
-    color: #a4b0be !important;
+    color: #383838 !important;
     font-weight: normal !important;
 }
 #subscribe #notifyMe ::-ms-input-placeholder {
-    color: #a4b0be !important;
+    color: #383838 !important;
     font-weight: normal !important;
 }
 #subscribe #notifyMe ::placeholder {
-    color: #a4b0be !important;
+    color: #383838 !important;
     font-weight: normal !important;
 }
 #subscribe #notifyMe .form-group {
     margin-bottom: 1em;
 }
 #subscribe #notifyMe .form-group .fa {
-    color: #a4b0be;
+    color: #383838;
     position: absolute;
     text-align: center;
     top: 15px;
@@ -1368,7 +1368,7 @@ sup {
     font-size: 1em;
     display: block;
     margin: 20px auto 0;
-    background: #e82629;
+    background: #f9ac1b;
     color: #fff;
     border-radius: 7px;
     font-weight: 700;
@@ -1493,35 +1493,35 @@ sup {
     text-align: left;
 }
 .info-contact .item-map .contact-item i {
-    color: #a4b0be;
+    color: #383838;
     font-size: 3em;
     margin-bottom: 10px;
 }
 .info-contact .item-map .contact-item a {
     font-weight: 600;
-    color: #a4b0be;
+    color: #383838;
 }
 .info-contact .item-map .contact-item a:hover {
-    color: #e82629;
+    color: #f9ac1b;
 }
 #contact-form {
     margin-top: 40px;
     max-width: 90%;
 }
 #contact-form ::-webkit-input-placeholder {
-    color: #a4b0be !important;
+    color: #383838 !important;
     font-weight: normal !important;
 }
 #contact-form :-ms-input-placeholder {
-    color: #a4b0be !important;
+    color: #383838 !important;
     font-weight: normal !important;
 }
 #contact-form ::-ms-input-placeholder {
-    color: #a4b0be !important;
+    color: #383838 !important;
     font-weight: normal !important;
 }
 #contact-form ::placeholder {
-    color: #a4b0be !important;
+    color: #383838 !important;
     font-weight: normal !important;
 }
 #contact-form .form-control {
@@ -1554,7 +1554,7 @@ sup {
     font-size: 1em;
     display: block;
     margin: 0;
-    background: #e82629;
+    background: #f9ac1b;
     color: #fff;
     border-radius: 7px;
     font-weight: 700;
@@ -1571,15 +1571,15 @@ sup {
     min-height: 60px;
     margin-top: 1.5em;
     text-align: left;
-    color: #a4b0be;
+    color: #383838;
 }
 .success-message,
 .error-message {
-    color: #a4b0be;
+    color: #383838;
 }
 .success-message p,
 .error-message p {
-    color: #a4b0be !important;
+    color: #383838 !important;
 }
 .success-message .fa-check,
 .error-message .fa-check {
@@ -1625,11 +1625,11 @@ sup {
     transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
 }
 .social-icons a:hover {
-    color: #e82629;
+    color: #f9ac1b;
     background: transparent;
 }
 .social-icons a:hover i {
-    color: #e82629;
+    color: #f9ac1b;
     -webkit-transform: scale(1.2);
     transform: scale(1.2);
 }
